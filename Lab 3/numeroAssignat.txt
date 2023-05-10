@@ -1,0 +1,15 @@
+Grup: G210
+
+Primera simulació: 1.59839e5 recomptes
+Intenció: 3.49e6
+--------------------------------------
+Quocient: ~22
+
+
+Vull reduir la variància:
+X: 3.506e6 recomptes
+X^2: 7.266e8 recomptes^2
+num_to_simulate: 1e6
+-------------------------
+Quocient: ~207
+num_to_simulate: 207244723
