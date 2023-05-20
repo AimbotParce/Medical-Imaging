@@ -1,4 +1,5 @@
 Grup: G210
+Node: 07
 
 Primera simulació: 1.59839e5 recomptes
 Intenció: 3.49e6
@@ -13,3 +14,4 @@ num_to_simulate: 1e6
 -------------------------
 Quocient: ~207
 num_to_simulate: 207244723
+

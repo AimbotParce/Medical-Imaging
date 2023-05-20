@@ -1,0 +1,13 @@
+resultats_par
+numero imatges: 1
+
+col: 1  param: cc
+col: 2  param: rcon     zona: 1 zonaref: 5      v_teoric: 7.000000
+col: 3  param: rcon     zona: 2 zonaref: 5      v_teoric: 7.000000
+col: 4  param: rcon     zona: 3 zonaref: 5      v_teoric: 7.000000
+col: 5  param: rcon     zona: 4 zonaref: 5      v_teoric: 7.000000
+Numero de zones: 5
+
+RESULTATS CPIMA  resultats_par :
+
+1.000000        0.876649        0.537266        0.576806        0.523803        0.567694
