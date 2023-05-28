@@ -1,0 +1,17 @@
+#
+#	This is a sample file for demonstrating how to specify parameters
+#	for the detection module of SimSET.
+#	receptors4 11/4/2001
+#	Grup Imatges
+
+# Specify our detector type as "simple SPECT", a Gaussian blurr
+INT	detector_type = 2
+
+# Specify the energy resolution of our detector (% of FWHM)
+REAL	energy_resolution_percentage = 10
+
+# Specify our reference energy
+REAL	reference_energy_keV = 140.0
+
+# Specify pathname of the history file (empty string = no history file)
+STR	history_file = ""
