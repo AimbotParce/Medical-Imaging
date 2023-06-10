@@ -26,7 +26,10 @@ for name, photon in zip(names, photons):
 
         vals = line.split("\t")
         rec_coef[name].append(float(vals[1]))
-        contrast_rec[name].append(float(vals[2]))
+
+        contrasts = [float(val) for val in vals[2:]]
+
+        contrast_rec[name].append(np.mean(contrasts))
 
 
 rec_fig, rec_ax = plt.subplots()
